@@ -6,16 +6,13 @@
 }
 
 body {
-    background-image: url("./portfilo_akash_/Contact/image/image_contact.png");
+    background-image: url("./Contact/image/image_contact.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .hero {
     width: 100%;
-    background-image: url("./image/first.webp");
-    background-size: cover;
-    background-position: center;
     position: relative; /* Make sure the hero section is positioned relatively */
 }
 
