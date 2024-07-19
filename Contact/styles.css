@@ -6,14 +6,14 @@
 }
 
 body {
-    background-image: url("./Contact/image/image_contact.png");
+    background-image: url("/image/imagecontact.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .hero {
     width: 100%;
-    background-image: url("./Contact/image/image_contact.png");
+    background-image: url("image/imagecontact.png");
     background-size: cover;
     background-repeat: no-repeat;
     position: relative; /* Make sure the hero section is positioned relatively */
