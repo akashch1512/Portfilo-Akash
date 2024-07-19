@@ -32,7 +32,7 @@ nav {
 }
 
 .logo span {
-    color: #f9004d;
+    color: #00b2f9;
 }
 
 nav ul {
@@ -52,12 +52,12 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #f9004d;
+    color: #00b2f9;
     transition: color 0.4s;
 }
 
 .btn {
-    background-color: #f9004d;
+    background-color: #00b2f9;
     color: white;
     text-decoration: none;
     border: 2px solid transparent;
@@ -116,7 +116,7 @@ nav ul li a:hover {
 }
 
 .contact-container input[type="submit"]:hover {
-    background-color: #25e425;
+    background-color: #00b2f9;
 }
 
 .content {
