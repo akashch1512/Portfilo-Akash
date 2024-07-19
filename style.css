@@ -154,7 +154,7 @@ h4{
     margin-bottom: 45px;
 }
 button{
-    background-color: #f9004d;
+    background-color: #00b2f9;
     color: white;
     text-decoration: none;
     border: 2px solid transparent;
@@ -165,7 +165,7 @@ button{
 }
 button:hover{
     background-color: transparent;
-    border: 2px solid #f9004d;
+    border: 2px solid #00b2f9;
     cursor: pointer;
 }
 
@@ -203,7 +203,7 @@ button:hover{
     display: block;
     text-align: center;
     margin: 25px 0px;
-    color: #f9004d;
+    color: #00b2f9;
 }
 
 h5 {
@@ -219,7 +219,7 @@ h5 {
 }
 
 .card .button {
-    background-color: #f9004d;
+    background-color: #00b2f9;
     color: white;
     text-decoration: none;
     border: 2px solid transparent;
@@ -230,7 +230,7 @@ h5 {
 }
 .card .button:hover{
     background-color: transparent;
-    border: 2px solid #f9004d;
+    border: 2px solid #00b2f9;
     cursor: pointer;
 }
 .contact-me{
@@ -251,7 +251,7 @@ h5 {
 }
 
 .contact-me .button-two{
-    background-color: #f9004d;
+    background-color: #00b2f9;
     color: white;
     text-decoration: none;
     border: 2px solid transparent;
@@ -262,7 +262,7 @@ h5 {
 }
 .contact-me .button-two:hover{
     background-color: transparent;
-    border: 2px solid #f9004d;
+    border: 2px solid #00b2f9;
     cursor: pointer;
 }
 footer{
@@ -297,7 +297,7 @@ footer p:nth-child(2){
     display: flex;
     align-items: center;
     justify-content: center;
-    background:#f9004d;
+    background:#00b2f9;
     border-radius: 50%;
     margin: 22px 10px;
     color: white;
@@ -310,7 +310,7 @@ footer p:nth-child(2){
 }
 .end{
     position: absolute;
-    color:#f9004d;
+    color:#00b2f9;
     bottom: 35px;
     font-size: 14px;
 }
