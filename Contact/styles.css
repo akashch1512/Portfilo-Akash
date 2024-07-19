@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url("/portfilo_akash_/Contact/image/image_contact.png");
+    background-image: url("./portfilo_akash_/Contact/image/image_contact.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
