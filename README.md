@@ -31,7 +31,7 @@ Follow these steps to view and run this portfolio website locally:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/akash1512/portfolio.git
    ```
 
 2. Navigate into the directory:  
@@ -55,8 +55,9 @@ You can view my live portfolio here:
 I’d love to connect with you! Here’s how:
 
 - **💬 Email:** [akashchaudhari1012@gmail.com](mailto:akashchaudhari1012@gmail.com)  
-- **👔 LinkedIn:** [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **🐦 Twitter:** [https://twitter.com/yourprofile](https://twitter.com/yourprofile)  
+
+[![Instagram](https://img.shields.io/badge/Instagram-405DE6?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/pycraftr/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-chaudhari-040ba0281)  
 
 ---
 
