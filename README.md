@@ -46,7 +46,7 @@ Follow these steps to view and run this portfolio website locally:
 ## 🔗 **Live Demo**
 
 You can view my live portfolio here:  
-👉 [https://your-live-link.com](https://akashch1512.github.io/portfilo_akash_/)
+👉 [Demo](https://akashch1512.github.io/portfilo_akash_/)
 
 ---
 
